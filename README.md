@@ -1,4 +1,4 @@
-# hit_counter
+# hit_counter example
 The code for Docker Compose Example, and I use it for Jenkins CI CD as well.
 
 Disclaimer the code is from Docker Hub Documentation at this link:
